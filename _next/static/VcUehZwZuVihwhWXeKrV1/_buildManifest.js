@@ -3,7 +3,7 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/EmmaVandewalle/geneeskunde-visualisaties/_next/:path+",
+        "source": "/emmavandewalle/geneeskunde-visualisaties/_next/:path+",
         "destination": "/geneeskunde-visualisaties/_next/:path+"
       }
     ],
