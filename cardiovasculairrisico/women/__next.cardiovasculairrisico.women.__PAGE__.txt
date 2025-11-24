@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[69610,["/geneeskunde-visualisaties/_next/static/chunks/042c6b2520291292.js","/geneeskunde-visualisaties/_next/static/chunks/8746eab2015fb433.js"],"ClientPageRoot"]
-3:I[32039,["/geneeskunde-visualisaties/_next/static/chunks/d6b35b5ecbdb036e.js","/geneeskunde-visualisaties/_next/static/chunks/254830e83b9384c8.js"],"default"]
-6:I[48372,["/geneeskunde-visualisaties/_next/static/chunks/042c6b2520291292.js","/geneeskunde-visualisaties/_next/static/chunks/8746eab2015fb433.js"],"OutletBoundary"]
+2:I[69610,["https://github.com/EmmaVandewalle/geneeskunde-visualisaties/_next/static/chunks/042c6b2520291292.js","https://github.com/EmmaVandewalle/geneeskunde-visualisaties/_next/static/chunks/8746eab2015fb433.js"],"ClientPageRoot"]
+3:I[32039,["https://github.com/EmmaVandewalle/geneeskunde-visualisaties/_next/static/chunks/d6b35b5ecbdb036e.js","https://github.com/EmmaVandewalle/geneeskunde-visualisaties/_next/static/chunks/254830e83b9384c8.js"],"default"]
+6:I[48372,["https://github.com/EmmaVandewalle/geneeskunde-visualisaties/_next/static/chunks/042c6b2520291292.js","https://github.com/EmmaVandewalle/geneeskunde-visualisaties/_next/static/chunks/8746eab2015fb433.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"vPeos4LtkbQPqYaPg1CO5","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/geneeskunde-visualisaties/_next/static/chunks/254830e83b9384c8.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"upTOQzK7zatcIHbnwydOA","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"https://github.com/EmmaVandewalle/geneeskunde-visualisaties/_next/static/chunks/254830e83b9384c8.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null

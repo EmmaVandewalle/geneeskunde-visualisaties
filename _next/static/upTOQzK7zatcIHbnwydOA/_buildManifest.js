@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/EmmaVandewalle/geneeskunde-visualisaties/_next/:path+",
+        "destination": "/geneeskunde-visualisaties/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
