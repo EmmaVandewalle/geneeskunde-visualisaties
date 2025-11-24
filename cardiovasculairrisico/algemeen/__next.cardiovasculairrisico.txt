@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[84796,["https://github.io/emmavandewalle/geneeskunde-visualisaties/_next/static/chunks/042c6b2520291292.js","https://github.io/emmavandewalle/geneeskunde-visualisaties/_next/static/chunks/8746eab2015fb433.js"],"default"]
 3:I[56841,["https://github.io/emmavandewalle/geneeskunde-visualisaties/_next/static/chunks/042c6b2520291292.js","https://github.io/emmavandewalle/geneeskunde-visualisaties/_next/static/chunks/8746eab2015fb433.js"],"default"]
-0:{"buildId":"t_NxWrhxBM7UZq1fXujhn","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"X9xKn-V0NE142zaEHqErT","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
