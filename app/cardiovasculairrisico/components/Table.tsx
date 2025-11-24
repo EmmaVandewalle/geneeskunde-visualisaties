@@ -17,7 +17,6 @@ export const TableRow = ({bloodPressure, ageGroup, values, activeBloodPressure =
             </td>
             {values.map((value, index) => {
                 let bgColor = '';
-                console.log(cholesterol !== -1 && cholesterol !== index, index, cholesterol);
                 if (parseInt(ageGroup.split("-")[0]) >= 50) {
                     if (value < 5) bgColor = 'bg-risk-low';
                     else if (value < 10) bgColor = 'bg-risk-medium';
@@ -52,7 +51,6 @@ interface TableProps {
 }
 
 export const Table = ({ title, data, inactive = false, activeBloodPressure = '', activeCholesterol = -1 }: TableProps) => {
-    console.log(activeCholesterol);
     return (
         <div className={`flex-1 transition-opacity duration-200 ${inactive ? 'opacity-50 grayscale' : ''}`}>
             <h4 className="text-center font-bold bg-gray-200 dark:bg-zinc-700 p-2 rounded-t-lg">
