@@ -19,3 +19,13 @@ npm run dev
 ### Questions
 
 If you have any questions or see any incorrect information displayed, please open an issue.
+
+### Github Pages
+
+To deploy to github pages, run the following command:
+
+```bash
+npm run deploy
+```
+
+You can find the deployed app at https://emmavandewalle.github.io/geneeskunde-visualisaties.
