@@ -9,5 +9,5 @@ export const systolicBloodPressureLevels = [
     "160-179",
     "140-159",
     "120-139",
-    "110-119"
+    "100-119"
 ]
