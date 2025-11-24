@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
     output: "export",
 
     basePath: isProd ? `/${REPO_NAME}` : "",
-    assetPrefix: isProd ? `https://github.io/${GITHUB_USERNAME}/${REPO_NAME}` : "",
+    assetPrefix: isProd ? `https://${GITHUB_USERNAME}.github.io/${REPO_NAME}` : "",
 
     images: {
         unoptimized: true
