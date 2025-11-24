@@ -3,6 +3,13 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  --risk-low: #a9d18e;      /* Light green */
+  --risk-medium: #ffc000;   /* Yellow */
+  --risk-high: #ff0000;     /* Red */
+
+  --risk-border: #e5e7eb;   /* Light gray border */
+  --risk-border-dark: #4b5563; /* Dark gray border for dark mode */
 }
 
 @theme inline {
@@ -16,6 +23,8 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --risk-border: #4b5563;
+    --risk-border-dark: #9ca3af;
   }
 }
 
@@ -23,4 +32,24 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-risk-low {
+  background-color: var(--risk-low);
+}
+
+.bg-risk-medium {
+  background-color: var(--risk-medium);
+}
+
+.bg-risk-high {
+  background-color: var(--risk-high);
+}
+
+.border-risk {
+  border-color: var(--risk-border);
+}
+
+.dark .border-risk {
+  border-color: var(--risk-border-dark);
 }
