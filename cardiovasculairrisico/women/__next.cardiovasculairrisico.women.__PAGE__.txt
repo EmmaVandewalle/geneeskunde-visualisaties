@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[69610,["https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/042c6b2520291292.js","https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/8746eab2015fb433.js"],"ClientPageRoot"]
-3:I[32039,["https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/d6b35b5ecbdb036e.js","https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/fcdd9b4e23f0d64a.js"],"default"]
+3:I[32039,["https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/1318cc96e9293e8f.js","https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/dddc7c48eeedfc1c.js"],"default"]
 6:I[48372,["https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/042c6b2520291292.js","https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/8746eab2015fb433.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"tEqUUcsc4T5TthL9_QBdQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/fcdd9b4e23f0d64a.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"jwYYFcY8vESm1VaAzG_6Q","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"https://emmavandewalle.github.io/geneeskunde-visualisaties/_next/static/chunks/dddc7c48eeedfc1c.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
