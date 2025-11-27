@@ -37,7 +37,7 @@ export default function Sidebar() {
     return (
         <div className="h-full bg-white dark:bg-zinc-900 border-r border-zinc-200 dark:border-zinc-800 fixed p-4 w-48">
             <div className="flex items-center space-x-2 mb-8 p-2">
-                <h1 className="text-xl font-bold">Visualisaties</h1>
+                <h1 className="text-xl font-bold">Medische Visualisaties</h1>
             </div>
 
             {/* Home Link */}
