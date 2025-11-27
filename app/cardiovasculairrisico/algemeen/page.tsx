@@ -15,9 +15,9 @@ export default function CommonPage() {
             </h1>
 
             <p className="text-zinc-700 dark:text-zinc-300 mb-8 max-w-4xl leading-relaxed">
-                Cardiovasculair risico is het verhoogde risico op hart- en vaatziekten, die veroorzaakt worden door
-                risicofactoren zoals roken, hoge bloeddruk, hoog cholesterol, diabetes, overgewicht, weinig beweging en
-                een ongezonde leefstijl.
+                Cardiovasculair risico is het verhoogde risico op hart- en vaatziekten.
+                Het risico om dit te ontwikkelen kan stijgen bij bijvoorbeeld roken, hoge bloeddruk, diabetes, ongezond eten, te weinig beweging, etc.
+                Het berekenen van het risico zegt iets over jouw kans om binnen 10 jaar een ziekte van hart- of bloedvaten te ontwikkelen.
             </p>
 
             {/** Legenda */}
