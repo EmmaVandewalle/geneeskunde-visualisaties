@@ -61,7 +61,7 @@ export const Table = ({ title, data, inactive = false, activeBloodPressure = '',
                     <thead>
                     <tr className="bg-gray-100 dark:bg-zinc-800 text-xs font-semibold">
                         <th className="p-2 border-r border-b border-gray-300 dark:border-zinc-600 text-left w-1/5 text-center">
-                            Bloeddruk (mm Hg)
+                            Bloeddruk (mmHg)
                         </th>
                         {cholesterolLevels.map((level) => (
                             <th

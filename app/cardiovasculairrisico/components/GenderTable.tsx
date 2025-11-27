@@ -98,7 +98,7 @@ export const GenderTable = ({ gender, data }: GenderTableProps) => {
                         <option value=""></option>
                         {systolicBloodPressureLevels.map((bp) => (
                             <option key={bp} value={bp}>
-                                {bp}
+                                {bp} mmHg
                             </option>
                         ))}
                     </select>
@@ -119,7 +119,7 @@ export const GenderTable = ({ gender, data }: GenderTableProps) => {
                         <option value={-1}></option>
                         {cholesterolLevels.map((cholesterol, index) => (
                             <option key={cholesterol} value={index}>
-                                {cholesterol}
+                                {cholesterol} mg/dL
                             </option>
                         ))}
                     </select>
